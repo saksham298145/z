@@ -1,0 +1,23 @@
+{
+    "location": {
+        "name": "Ambala",
+        "region": "Haryana",
+        "country": "India",
+        "lat": 30.38,
+        "lon": 76.78,
+        "tz_id": "Asia/Kolkata",
+        "localtime_epoch": 1666697584,
+        "localtime": "2022-10-25 17:03"
+    },
+    "current": {
+        "last_updated_epoch": 1666697400,
+        "last_updated": "2022-10-25 17:00",
+        "temp_c": 29.9,
+        "temp_f": 85.8,
+
+        "condition": {
+            "text": "Sunny",
+            "code": 1000
+        }
+      }
+    }
